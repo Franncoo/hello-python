@@ -14,6 +14,6 @@ elif x >= 89 or x >= 117:
     print ("Category:Severve Tropical Strom")
 elif x >= 62 or x >= 88:
     print ("Category:Typhoon")
-elif x == 61:
+elif x <= 61:
     print ("Category:Tropical Despression")
 
